@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaLoginCRUD", "PracticaLoginCRUD\PracticaLoginCRUD.csproj", "{D32759CF-4C87-42CA-949F-6C91C1EA1FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32759CF-4C87-42CA-949F-6C91C1EA1FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32759CF-4C87-42CA-949F-6C91C1EA1FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32759CF-4C87-42CA-949F-6C91C1EA1FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32759CF-4C87-42CA-949F-6C91C1EA1FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9A5E0B-9C0C-4528-8721-3F5B0A0642F7}
+	EndGlobalSection
+EndGlobal
